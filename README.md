@@ -1,6 +1,8 @@
 
                                                   Business Insights 360
 
+[Link to Interactive dashboard](https://www.novypro.com/project/atliq-hardware-business-insights-360-)
+
 
 Project Overview
 
