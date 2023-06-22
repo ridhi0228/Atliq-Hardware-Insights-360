@@ -56,3 +56,21 @@ Project kick off session, where you should get clear of for what and why this pr
                                                                Project Outcome
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
 
+
+                                                               
+                                                                Overall Report
+
+
+
+
+![Screenshot (48)](https://github.com/ridhi0228/Atliq-Hardware-Insights-360/assets/132190698/f32c99cd-ac5b-4668-a769-0fb3cbb60e4f)
+
+
+![Screenshot (49)](https://github.com/ridhi0228/Atliq-Hardware-Insights-360/assets/132190698/146a21d1-b65c-4b5d-a963-4ec9c4305429)
+
+
+![Screenshot (50)](https://github.com/ridhi0228/Atliq-Hardware-Insights-360/assets/132190698/77355154-3c3f-4135-8eff-1203d7288f8e)
+                                                 
+![Screenshot (51)](https://github.com/ridhi0228/Atliq-Hardware-Insights-360/assets/132190698/28e250e0-40e2-408d-a3bb-cf8094e98289)
+
+![Screenshot (52)](https://github.com/ridhi0228/Atliq-Hardware-Insights-360/assets/132190698/16693501-7685-4bf1-b07c-2eda3e447e46)
