@@ -1,5 +1,19 @@
-# Atliq-Hardware-Insights-360
 
-Problem Statement-
-It is a consumer goods electronics company having operations in various countries. Their business is growing rapidly and they still rely on excel files for data analytics. Excel files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faced a major loss in Latin America.
-Senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work.
+                                                  Business Insights 360
+
+
+Project Overview
+
+AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
+
+I worked on this project by following the Codebasics PowerBi Course.
+
+
+Tech stacks-
+
+SQL
+PowerBi Desktop
+Excel
+DAX language
+DAX studio (for optimizing the report)
+Project charter file
