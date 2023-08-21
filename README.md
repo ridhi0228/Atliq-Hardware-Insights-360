@@ -66,7 +66,26 @@ By using this report, decisions can be taken based on the data. Further it will 
 **Overall Report**
 
 
+Business insights 360 (1.0)
 
+![Screenshot (255)](https://github.com/ridhi0228/Atliq-Hardware-Insights-360/assets/132190698/e0ecfe7f-a2cc-423e-9fe4-11ccfa0c7066)
+
+![Screenshot (256)](https://github.com/ridhi0228/Atliq-Hardware-Insights-360/assets/132190698/82e4a19a-1d9f-4773-8481-b47f4e5b6c37)
+
+![Screenshot (257)](https://github.com/ridhi0228/Atliq-Hardware-Insights-360/assets/132190698/169cff2c-44ee-412c-ba0e-4cdc686b5a4d)
+
+![Screenshot (258)](https://github.com/ridhi0228/Atliq-Hardware-Insights-360/assets/132190698/16f920b9-5bb1-4627-8a2e-07741603ad6a)
+
+
+![Screenshot (259)](https://github.com/ridhi0228/Atliq-Hardware-Insights-360/assets/132190698/12d00d0f-40c9-482c-98cc-2a1c6f308f37)
+
+![Screenshot (260)](https://github.com/ridhi0228/Atliq-Hardware-Insights-360/assets/132190698/ca002f3a-a7b7-48d6-92bf-295ed6f79eba)
+
+
+
+
+
+Business Insights 360
 
 ![Screenshot (48)](https://github.com/ridhi0228/Atliq-Hardware-Insights-360/assets/132190698/f32c99cd-ac5b-4668-a769-0fb3cbb60e4f)
 
